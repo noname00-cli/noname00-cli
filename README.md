@@ -16,7 +16,7 @@
 ## 🔥 About Me
 
 $ whoami
-noname00-cli
+- noname00-cli
 
 $ cat about.txt
 
