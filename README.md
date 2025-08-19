@@ -1,4 +1,7 @@
 [![MasterHead](https://github.com/noname00-cli/noname00-cli/blob/main/header.png)](https://github.com/noname00-cli/noname00-cli)
+I'm from /mnt  beware !!
+May contain viruses or any other form of malware !! 😁😁
+From your pendrive
 
 
 
