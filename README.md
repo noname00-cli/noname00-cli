@@ -4,11 +4,10 @@
 </div>
 
 
-<h1 align="center">🚀 Welcome to the Digital Underworld 🚀</h1>
-<h3 align="center">⚠️ I'm from /mnt - beware!! ⚠️</h3>
+<h1 align="center">🚀 Hi I'm Denver009 (noname00-cli) 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=May+contain+viruses+or+malware+😈;From+your+pendrive+💾;Proceed+at+your+own+risk+⚠️&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Love+watching+anime+＼(≧▽≦)／;EDM+Lover+🎸;Computer+Network+Enthusiast+🖧;Love+learning+new+things+📙&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
 </p>
 
 ---
@@ -20,24 +19,22 @@ $ whoami
 
 $ cat about.txt
 
-- 👾 Digital ghost haunting your repositories
+- ＼(≧▽≦)／  Love watching anime.
 
-- 🌙 Night owl person fueled by caffeine and chaos
+- 🎸 EDM & Drum/Bass lover.
 
-- 📡 Broadcasting from the depths of /mnt
+- 💻 Interest in computers.
 
-- 🎮 Plays game quarter of the time
+- 🎮 Exploring Triple A titles.
 
-- (●'◡'●) Watches anime all day
+- 📙 Love learning new things
 
 
-## 💻 Tech Arsenal
+## 💻 My current knowledge (Most of them are in learning phase)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,go,bash,git,docker,redhat,linux" />
 </p>
-
-## 📊 Battle Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noname00-cli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -48,19 +45,13 @@ $ cat about.txt
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noname00-cli&theme=radical" alt="Streak Stats" />
 </p>
 
-## 🎯 Current Missions
-
-- 🛠️ Building tools that are useless for non-tech users 
-- 📚 Learning new ways to break things 
-- 🌐 Contributing to open source chaos
-
 ## 🏆 Achievements Unlocked
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=noname00-cli&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
-## 📡 Infiltrate My Network
+## 📡 My Network
 
 <p align="center">
   <a href="https://github.com/noname00-cli">
