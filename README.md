@@ -57,6 +57,9 @@ $ cat about.txt
   <a href="https://github.com/noname00-cli">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/1246823760460386345">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   <!-- Add more social links as needed -->
 </p>
 
