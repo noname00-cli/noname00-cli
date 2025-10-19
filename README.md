@@ -33,7 +33,7 @@ $ cat about.txt
 ## 💻 My current knowledge (Most of them are in learning phase)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,git,docker,redhat,linux" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go,bash,git,docker,redhat,linux,csharp" />
 </p>
 
 <div align="center">
